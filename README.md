@@ -7,7 +7,7 @@
 |Who: | Peter Alvaro |
 |Office (half)hours: | Tuesdays, 1:30-2PM and Thursdays 11:15-11:45AM|
 |Prerequisites: | A passion for reading and a hunger for discussion |
-|Readings: | [Readings](https://github.com/palvaro/CMPS232-Spring18/blob/master/readings.md) (volatile; subject to significant change)|
+|Readings: | [Readings](https://github.com/palvaro/CMPS232-Spring19/blob/master/readings.md) (volatile; subject to significant change)|
 |TA: | Perhaps none? |
 
 # Description
