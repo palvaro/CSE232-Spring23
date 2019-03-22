@@ -1,15 +1,21 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
 |------------|-------------|-------------|------------|
-|4/3/2018|Intro|<a href="">None</a>|Me|
-|4/5|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, <br> <a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
-|4/10|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>, <br> <a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
+|4/1/2018|Intro|<a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628" >A Note on Distributed Computing</a>|Me|
+|4/3|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>||
+|4/5/2019|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
+|4/8|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>||
+|4/10| Storage | <a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
 |4/12|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>; <a href="http://www.sigcomm.org/sites/default/files/ccr/papers/2012/April/2185376-2185383.pdf">Using Lightweight Modeling To Understand Chord</a>| |
-|4/17|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>, <br> <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628" >A Note on Distributed Computing</a>||
-|4/19|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
-|4/24|Consensus and its applications|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>,<br><a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>,<br><a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">In Search of an Understandable Consensus Algorithm</a>||
-|4/26|Fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>, <br> <a href="https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf">Early Detection of Configuration Errors to Reduce Failure Damage</a>||
-|5/1|Storage | <a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>, <br> <a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
-|5/3|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>,<br><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a>||
+|4/15|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a> ||
+|4/17|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
+|4/19|Consensus and its applications|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>||
+|4/22|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>,<br><a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">In Search of an Understandable Consensus Algorithm</a>||
+|4/24|Fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
+|4/26|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf">Early Detection of Configuration Errors to Reduce Failure Damage</a>||
+|4/29|Storage | <a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
+|5/1|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
+|5/4|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>||
+|???|blockchain1|<a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a>||
 |5/8|Project LIGHTNING TALKS 1</a>||
 |5/10|Project LIGHTNING TALKS 2|<a href=""></a>||
 |5/15|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>, <br> <a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
