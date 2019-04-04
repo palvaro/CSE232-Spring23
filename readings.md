@@ -10,8 +10,8 @@
 |4/19|Fault tolerance|<a href="">Lineage-driven Fault Injection</a>||
 |4/22|Storage|<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
 |4/24|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
-|4/26|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
-|4/29|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>||
+|4/26|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>|Roy|
+|4/29|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|Roy|
 |5/1||<a href="">Lightning talks!</a>||
 |5/3||<a href="">Lightning talks!</a>||
 |5/6|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
