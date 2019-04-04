@@ -2,10 +2,10 @@
 ## Graduate Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Tuesdays and Thursdays from 11:40am to 1:15 OM</b>. |
-|Where: | Baskin Engineering 165 |
+|When: | Mondays, Wednesdays and Fridays from 1:20 to 2:25 PM</b>. |
+|Where: | Baskin Engineering 192b |
 |Who: | Peter Alvaro |
-|Office (half)hours: | Tuesdays, 1:30-2PM and Thursdays 11:15-11:45AM|
+|Office (half)hours: | Fridays 10-11AM and TBD|
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CMPS232-Spring19/blob/master/readings.md) (volatile; subject to significant change)|
 |TA: | Perhaps none? |
