@@ -6,7 +6,7 @@
 |4/10|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
 |4/12||<a href="">no class, sorry!</a>||
 |4/15|Fault tolerance|<a href="https://arxiv.org/abs/1903.12226">Co-evolving Tracing and Fault Injection with Box of Pain</a>||
-|4/17|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Zehui Cheng|
+|4/17|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Zehui Cheng, Vishal Chakraborty|
 |4/19|Fault tolerance|<a href="">Lineage-driven Fault Injection</a>||
 |4/22|Storage|<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Zehui Cheng|
 |4/24|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
