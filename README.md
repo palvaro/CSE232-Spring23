@@ -1,4 +1,4 @@
-# CMPS232-Spring18
+# CMPS232-Spring19
 ## Graduate Distributed Systems
 | key | value | 
 |-----|-------|
