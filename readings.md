@@ -9,7 +9,7 @@
 |4/17|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Zehui Cheng, Vishal Chakraborty|
 |4/19|Fault tolerance|<a href="">Lineage-driven Fault Injection</a>||
 |4/22|Storage|<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Zehui Cheng, Vishal Chakraborty|
-|4/24|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
+|4/24|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>| Aldrin |
 |4/26|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>|Roy|
 |4/29|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|Roy|
 |5/1||<a href="">Lightning talks!</a>||
