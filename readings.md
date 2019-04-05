@@ -16,10 +16,10 @@
 |5/3||<a href="">Lightning talks!</a>||
 |5/6|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>| Aldrin |
 |5/8|Storage|<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Kristopher|
-|5/10|Avoiding coordination|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
+|5/10|Avoiding coordination|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Abhishek|
 |5/13|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Joshua|
 |5/15|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Kristopher, Sabrina|
-|5/17|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
+|5/17|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Abhishek|
 |5/20|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>|Joshua|
 |5/22|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Anuj, Fahim|
 |5/24|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>||
