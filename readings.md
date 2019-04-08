@@ -16,9 +16,9 @@
 |5/1|norcal DB day|<a href="">Guest / sub / no class</a>||
 |5/3|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
 |5/6|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Aldrin|
-|5/8|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Aldrin|
+|5/8|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Aldrin, Jason|
 |5/10|Avoiding coordination|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Abhishek, Jonathan|
-|5/13|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Joshua|
+|5/13|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Joshua, Jason|
 |5/15|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Kristopher, Sabrina|
 |5/17|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Abhishek|
 |5/20|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>|Joshua, Jonathan|
