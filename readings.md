@@ -3,7 +3,7 @@
 |4/1|Intro|<a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628">A Note on Distributed Computing</a>||
 |4/3|Seminal Theory|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>||
 |4/5|Seminal Theory|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
-|4/8|Fault tolerance|<a href="https://arxiv.org/abs/1903.12226">Co-evolving Tracing and Fault Injection with Box of Pain</a>|Kyle Ebding|
+|4/8|Fault tolerance|<a href="https://arxiv.org/abs/1903.12226">Co-evolving Tracing and Fault Injection with Box of Pain</a>|Kyle Ebding, Akul Goyal|
 |4/10||<a href="">no class, sorry!</a>||
 |4/12|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
 |4/15|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Zehui Cheng, Vishal Chakraborty|
