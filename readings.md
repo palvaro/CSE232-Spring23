@@ -5,7 +5,7 @@
 |4/5|Seminal Theory|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
 |4/8|Fault tolerance|<a href="https://arxiv.org/abs/1903.12226">Co-evolving Tracing and Fault Injection with Box of Pain</a>||
 |4/10|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple -- ZOOM class</a>|Zehui Cheng, Vishal Chakraborty|
-|4/12||<a href="">no class, sorry!</a>||
+|4/12||<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">no class, sorry!</a>||
 |4/15|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Kavi|
 |4/17|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>|Roy, Fahim|
 |4/19|Storage|<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Zehui Cheng, Vishal Chakraborty|
