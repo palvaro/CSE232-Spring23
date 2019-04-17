@@ -23,7 +23,7 @@
 |5/17|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Abhishek, Kavi|
 |5/20|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>|Joshua, Jonathan|
 |5/22|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Anuj, Fahim|
-|5/24|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>|Jason|
+|5/24|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>|Jason, Akul|
 |5/29|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
 |5/31||<a href="">More room!</a>||
 |6/3|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
