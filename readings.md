@@ -8,7 +8,7 @@
 |4/12||<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">no class, sorry!</a>||
 |4/15|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Kavi|
 |4/17|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>|Roy, Fahim|
-|4/19|Storage|<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Zehui Cheng, Vishal Chakraborty|
+|4/19|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Zehui Cheng, Vishal Chakraborty|
 |4/22|Storage|<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Kristopher, Samuel|
 |4/24||<a href=""></a>||
 |4/26|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|Roy,Anuj|
