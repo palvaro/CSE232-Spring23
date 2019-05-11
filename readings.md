@@ -16,16 +16,16 @@
 |5/1|norcal DB day|<a href="">Guest / sub / no class</a>||
 |5/3|<a href="">Lightning talks!</a>||
 |5/6|Lightning Talks!||
-|5/8|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Aldrin, Rahil|
+|5/8| Lightning Talks||
 |5/10|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Aldrin, Samuel|
-|5/13|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Joshua, Jason|
-|5/15|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Kristopher, Sabrina|
-|5/17|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Abhishek, Kavi|
-|5/20|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>|Joshua, Jonathan|
-|5/22|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Anuj, Fahim|
-|5/24|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>|Jason, Akul|
-|5/29|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
-|5/31||<a href="">More room!</a>||
-|6/3|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
-|6/5||<a href=""></a>||
+|5/13|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Aldrin, Rahil|
+|5/15|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Joshua, Jason|
+|5/17|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Kristopher, Sabrina|
+|5/20|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Abhishek, Kavi|
+|5/22|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>|Joshua, Jonathan|
+|5/24|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Anuj, Fahim|
+|5/29|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>|Jason, Akul|
+|5/31|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
+|6/3||<a href="">More room!</a>||
+|6/5|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
 6/7||<a href=""></a>||
