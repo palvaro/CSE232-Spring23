@@ -26,6 +26,6 @@
 |5/24|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Anuj, Fahim|
 |5/29|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>|Jason, Akul|
 |5/31|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>|Kyle|
-|6/3||<a href="">More room!</a>||
+|6/3|BFT|<a href="https://eprint.iacr.org/2016/199.pdf">The Honey Badger of BFT Protocols</a>|Sabrina, Rahil|
 |6/5|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
 6/7||<a href=""></a>||
