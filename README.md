@@ -5,7 +5,7 @@
 |When: | Mondays, Wednesdays and Fridays from 2:40 to 3:45 PM</b>. |
 |Where: | Baskin Engineering 372 |
 |Who: | Peter Alvaro |
-|Office (half)hours: | TBD|
+|Office (half)hours: | In person Mon @ 2pm. Remote Tue @ 11am|
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CMPS232-Spring19/blob/master/readings.md) (volatile; subject to significant change)|
 |TA: | Perhaps none? |
