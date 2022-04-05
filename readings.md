@@ -24,7 +24,7 @@
 |5/18|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
 |5/20|Systems|<a href="https://tli2.github.io/assets/pdf/dpr-sigmod2021.pdf">Async Prefix Recovery</a>||
 |5/23|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>||
-|5/25|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>||
+|5/25|SRE|<a href="https://nacrooks.github.io/bibliography/publications/2021-sosp-basil.pdf">Basil</a>||
 |5/27|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
 |5/30|BFT|<a href="https://eprint.iacr.org/2016/199.pdf">The Honey Badger of BFT Protocols</a>||
 |6/1|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
