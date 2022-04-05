@@ -13,7 +13,7 @@
 |4/22||possible sub|
 |4/25||possible sub|
 |4/27|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
-|4/29|norcal DB day|<a href="">Guest / sub / no class</a>||
+|4/29|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf">Redundancy does not imply fault tolerance</a>|
 |5/2|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|j|
 |5/4|Lightning Talks!||
 |5/6| Lightning Talks||
