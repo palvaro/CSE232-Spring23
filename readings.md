@@ -22,7 +22,7 @@
 |5/13|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>||
 |5/16|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
 |5/18|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
-|5/20|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>||
+|5/20|Systems|<a href="https://tli2.github.io/assets/pdf/dpr-sigmod2021.pdf">Async Prefix Recovery</a>||
 |5/23|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>||
 |5/25|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>||
 |5/27|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
