@@ -18,7 +18,7 @@
 |5/4|Lightning Talks!||
 |5/6| Lightning Talks||
 |5/9|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
-|5/11|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
+|5/11|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Achilles|
 |5/13|Programming Models|<a href="https://pages.cs.wisc.edu/~ag/pdf/nilext.pdf">nil-Externality</a>||
 |5/16|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
 |5/18|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
