@@ -10,7 +10,7 @@
 |4/15|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
 |4/18|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
 |4/20|Storage|<a href="https://people.cs.umass.edu/~mcorner/courses/691M/papers/terry.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
-|4/22||possible sub|
+|4/22||No Class|
 |4/25|Programming models|<a href="https://www.cs.cornell.edu/andru/papers/warranties/nsdi14.pdf">Warranties ----- with guest Prof Owen Arden|
 |4/27|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
 |4/29|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf">Redundancy does not imply fault tolerance</a>|
