@@ -6,10 +6,10 @@
 |4/6|Seminal Theory|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>|zhou|
 |4/8|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple </a>||
 |4/11|Avoiding coordination|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
-|4/13|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
+|4/13|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Pooneh|
 |4/15|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
 |4/18|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
-|4/20|Storage|<a href="https://people.cs.umass.edu/~mcorner/courses/691M/papers/terry.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
+|4/20|Storage|<a href="https://people.cs.umass.edu/~mcorner/courses/691M/papers/terry.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Peter|
 |4/22||No Class|
 |4/25|Programming models|<a href="https://www.cs.cornell.edu/andru/papers/warranties/nsdi14.pdf">Warranties ----- with guest Prof Owen Arden|
 |4/27|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
