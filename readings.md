@@ -5,7 +5,7 @@
 |4/4|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Jayjeet Chakraborty|
 |4/6|Seminal Theory|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>|zhou|
 |4/8|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple </a>|Omkar|
-|4/11|Avoiding coordination|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
+|4/11|Avoiding coordination|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Aaron Steinberg|
 |4/13|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Pooneh|
 |4/15|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>|Shayan Salsabilian|
 |4/18|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
@@ -16,7 +16,7 @@
 |4/29|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf">Redundancy does not imply fault tolerance</a>|
 |5/2|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|j|
 |5/4|Programming Models|<a href="https://pages.cs.wisc.edu/~ag/pdf/nilext.pdf">nil-Externality</a>||
-|5/6|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
+|5/6|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Aaron Steinberg|
 |5/9|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Charitha|
 |5/11|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Achilles|
 |5/13|  Lightning Talks!||
