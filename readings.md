@@ -11,11 +11,11 @@
 |4/18|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Nayan|
 |4/20|Storage|<a href="https://people.cs.umass.edu/~mcorner/courses/691M/papers/terry.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Peter|
 |4/22||No Class|
-|4/25|Programming models|<a href="https://www.cs.cornell.edu/andru/papers/warranties/nsdi14.pdf">Warranties ----- with guest Prof Owen Arden|
+|4/25|Programming models|<a href="https://www.cs.cornell.edu/andru/papers/warranties/nsdi14.pdf">Warranties ----- with guest Prof Owen Arden|Owen|
 |4/27|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>|Achilles|
-|4/29|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf">Redundancy does not imply fault tolerance</a>|
-|5/2|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|j|
-|5/4|Programming Models|<a href="https://pages.cs.wisc.edu/~ag/pdf/nilext.pdf">nil-Externality</a>||
+|4/29|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf">Redundancy does not imply fault tolerance</a>||
+|5/2|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|Peter|
+|5/4|Programming Models|<a href="https://pages.cs.wisc.edu/~ag/pdf/nilext.pdf">nil-Externality</a>|Pooneh|
 |5/6|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Aaron Steinberg|
 |5/9|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Charitha|
 |5/11|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Achilles|
