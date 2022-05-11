@@ -1,7 +1,7 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
 |------------|-------------|-------------|------------|
 |3/30|Intro|<a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628">A Note on Distributed Computing</a>||
-|4/1|Seminal Theory|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>||
+|4/1|Seminal Theory|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>|Yash Chhabria|
 |4/4|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Jayjeet Chakraborty|
 |4/6|Seminal Theory|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>|zhou|
 |4/8|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple </a>|Omkar|
@@ -26,6 +26,6 @@
 |5/23|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Jayjeet Chakraborty|
 |5/25|SRE|<a href="https://nacrooks.github.io/bibliography/publications/2021-sosp-basil.pdf">Basil</a>||
 |5/27|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
-|5/30|BFT|<a href="https://eprint.iacr.org/2016/199.pdf">The Honey Badger of BFT Protocols</a>||
+|5/30|BFT|<a href="https://eprint.iacr.org/2016/199.pdf">The Honey Badger of BFT Protocols</a>|Yash Chhabria|
 |6/1|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
 6/3||<a href=""></a>||
