@@ -1,14 +1,15 @@
-# CMPS232-Spring22
+# CMPS232-Spring23
 ## Graduate Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Mondays, Wednesdays and Fridays from 2:40 to 3:45 PM</b>. |
-|Where: | Baskin Engineering 372 |
+|When: | Mondays, Wednesdays and Fridays from 9:20AM - 10:25AM</b>. |
+|Where: | Baskin Engineering 165 |
 |Who: | Peter Alvaro |
-|Office (half)hours: | In person Mon @ 2pm. Remote Tue @ 11am|
+|Office (half)hours: | TBD|
+|Extended OH:| TBD|
 |Prerequisites: | A passion for reading and a hunger for discussion |
-|Readings: | [Readings](https://github.com/palvaro/CSE232-Spring22/blob/master/readings.md) (volatile; subject to significant change)|
-|TA: | Perhaps none? |
+|Readings: | [Readings](https://github.com/palvaro/CSE232-Spring23/blob/master/readings.md) (volatile; subject to significant change)|
+|TA: | Achilles Benetopoulis |
 
 # Description
 
