@@ -23,7 +23,7 @@
 |5/17|  Lightning Talks||
 |5/19|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
 |5/22|Systems|<a href="https://tli2.github.io/assets/pdf/dpr-sigmod2021.pdf">Async Prefix Recovery</a>||
-|5/24|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>| Chakraborty|
+|5/24|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>||
 |5/26|SRE|<a href="https://nacrooks.github.io/bibliography/publications/2021-sosp-basil.pdf">Basil</a>||
 |5/29|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>||
 |5/31|BFT|<a href="https://eprint.iacr.org/2016/199.pdf">The Honey Badger of BFT Protocols</a>||
