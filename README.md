@@ -9,7 +9,7 @@
 |Extended OH:| TBD|
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CSE232-Spring23/blob/master/readings.md) (volatile; subject to significant change)|
-|TA: | Achilles Benetopoulis |
+|TA: | Achilles Benetopoulos |
 
 # Description
 
