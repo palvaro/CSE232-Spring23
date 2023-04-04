@@ -4,7 +4,7 @@
 |4/5||No Class||
 |4/7|Seminal Theory|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>||
 |4/10|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
-|4/12|Programming Models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>||
+|4/12|Programming Models|<a href="https://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/sinfonia.pdf">Sinfonia</a>||
 |4/14|Programming Models|<a href="http://worrydream.com/refs/Hewitt-ActorModel.pdf">A Universal Modular ACTOR Formalism for Artificial Intelligence</a>||
 |4/17|Programming Models|<a href=https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Orleans-MSR-TR-2014-41.pdf>Orleans: Distributed Virtual Actors for Programmability and Scalability</a>||
 |4/19||No Class||
