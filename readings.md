@@ -8,19 +8,18 @@
 |4/14|Programming Models|<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Orleans-MSR-TR-2014-41.pdf">Orleans: Distributed Virtual Actors for Programmability and Scalability</a>||
 |4/17|Programming Models|<a href="https://www.usenix.org/system/files/osdi18-moritz.pdf">Ray: A Distributed Framework for Emerging AI Applications</a>||
 |4/19||No Class||
-|4/21|||
-|4/24|Storage|<a href="https://people.cs.umass.edu/~mcorner/courses/691M/papers/terry.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
-|4/26|||
-|4/28|Programming models|<a href="https://www.cs.cornell.edu/andru/papers/warranties/nsdi14.pdf">Warranties ----- with guest Prof Owen Arden||
-|4/27|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
-|5/1|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf">Redundancy does not imply fault tolerance</a>||
-|5/3|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>||
-|5/5|Programming Models|<a href="https://pages.cs.wisc.edu/~ag/pdf/nilext.pdf">nil-Externality</a>||
-|5/8|Programming Models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
-|5/10|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
-|5/12|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
-|5/15|  Lightning Talks!||
-|5/17|  Lightning Talks||
+|4/21|Survey|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
+|4/24|Programming Models|<a href="https://people.csail.mit.edu/alinush/6.824-spring-2015/papers/argus88.pdf">Distributed Programming in Argus</a>||
+|4/26|Storage|<a href="https://people.cs.umass.edu/~mcorner/courses/691M/papers/terry.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
+|4/28|Programming models|<a href="https://dl.acm.org/doi/pdf/10.1145/35037.42182">Fine-Grained Mobility in the Emerald System</a>||
+|5/1|Programming Models|<a href="https://www.usenix.org/system/files/nsdi21-wang.pdf">Ownership: A Distributed Futures System for Fine-Grained Tasks</a>||
+|5/3||No Class||
+|5/5|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</a>||
+|5/8|Dataflow|<a href="http://www.michaelisard.com/pubs/eurosys07.pdf">Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks</a>||
+|5/10|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
+|5/12|Consistency|<a href="https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf">Spanner: Google’s Globally-Distributed Database</a>||
+|5/15|Lightning Talks||
+|5/17|Lightning Talks||
 |5/19|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
 |5/22|Systems|<a href="https://tli2.github.io/assets/pdf/dpr-sigmod2021.pdf">Async Prefix Recovery</a>||
 |5/24|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>||
