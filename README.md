@@ -5,7 +5,7 @@
 |When: | Mondays, Wednesdays and Fridays from 9:20AM - 10:25AM</b>. |
 |Where: | Baskin Engineering 165 |
 |Who: | Peter Alvaro |
-|Office hours: | Tuesdays 11-1 (remote), Wednesdays and Fridays 10:30-11 (in-person)|
+|Office hours: | Tuesdays 1-2PM (remote, starting on Discord), Wednesdays and Fridays 10:30-11 (in-person)|
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CSE232-Spring23/blob/master/readings.md) (volatile; subject to significant change)|
 |TA: | Achilles Benetopoulos |
