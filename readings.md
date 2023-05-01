@@ -14,7 +14,7 @@
 |4/28|Programming models|<a href="https://dl.acm.org/doi/pdf/10.1145/35037.42182">Fine-Grained Mobility in the Emerald System</a>||
 |5/1|Programming Models|<a href="https://www.usenix.org/system/files/nsdi21-wang.pdf">Ownership: A Distributed Futures System for Fine-Grained Tasks</a>||
 |5/3||No Class||
-|5/5|Fault tolerance|<a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</a>||
+|5/5|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to Analyze Distributed Systems</a>||
 |5/8|Dataflow|<a href="http://www.michaelisard.com/pubs/eurosys07.pdf">Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks</a>||
 |5/10|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
 |5/12|Consistency|<a href="https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf">Spanner: Google’s Globally-Distributed Database</a>||
