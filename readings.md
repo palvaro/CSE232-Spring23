@@ -19,7 +19,7 @@
 |5/10|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
 |5/12|Consistency|<a href="https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf">Spanner: Google’s Globally-Distributed Database</a>||
 |5/15|Scaling Computation|<a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST?</a>||
-|5/17|No Class||
+|5/17||No Class|
 |5/19|Consensus|<a href="https://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>||
 |5/22|Consensus|<a href="https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/weakestfd.pdf">The Weakest Failure Detector for Solving Consensus</a>||
 |5/24|New Theory|<a href="https://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf">Seeing is Believing: A Client-Centric Specification of Database Isolation</a>||
