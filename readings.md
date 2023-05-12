@@ -23,10 +23,10 @@
 |5/19|Consensus|<a href="https://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>||
 |5/22|Consensus|<a href="https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/weakestfd.pdf">The Weakest Failure Detector for Solving Consensus</a>||
 |5/24|New Theory|<a href="https://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf">Seeing is Believing: A Client-Centric Specification of Database Isolation</a>||
-|5/26||TBD||
+|5/26||Lightning Talks||
 |5/29||Memorial Day||
-|5/31||TBD||
-|6/2||TBD||
+|5/31||Lightning Talks||
+|6/2|Security|<a href="https://dl.acm.org/doi/pdf/10.1145/2810103.2813695">Observing and Preventing Leakage in MapReduce</a>||
 |6/5||TBD||
 |6/7||TBD||
 |6/9||TBD||
