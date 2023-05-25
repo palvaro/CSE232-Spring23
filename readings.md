@@ -25,8 +25,8 @@
 |5/24|New Theory|<a href="https://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf">Seeing is Believing: A Client-Centric Specification of Database Isolation</a>||
 |5/26||Lightning Talks||
 |5/29||Memorial Day||
-|5/31||Lightning Talks||
+|5/31||No Class||
 |6/2|Security|<a href="https://dl.acm.org/doi/pdf/10.1145/2810103.2813695">Observing and Preventing Leakage in MapReduce</a>||
-|6/5||TBD||
-|6/7||TBD||
-|6/9||TBD||
+|6/5||<a href="https://cs.uwaterloo.ca/~kdaudjee/courses/cs848/papers/das10.pdf">G-Store</a>||
+|6/7||<a href="https://dl.acm.org/doi/abs/10.14778/1920841.1920855">The case for determinism</a>||
+|6/9||<a href="https://irenezhang.net/papers/tapir-sosp15.pdf">TAPIR</a>||
