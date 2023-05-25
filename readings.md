@@ -27,6 +27,6 @@
 |5/29||Memorial Day||
 |5/31||No Class||
 |6/2|Security|<a href="https://dl.acm.org/doi/pdf/10.1145/2810103.2813695">Observing and Preventing Leakage in MapReduce</a>||
-|6/5||<a href="https://cs.uwaterloo.ca/~kdaudjee/courses/cs848/papers/das10.pdf">G-Store</a>||
-|6/7||<a href="https://dl.acm.org/doi/abs/10.14778/1920841.1920855">The case for determinism</a>||
-|6/9||<a href="https://irenezhang.net/papers/tapir-sosp15.pdf">TAPIR</a>||
+|6/5|Transactions|<a href="https://cs.uwaterloo.ca/~kdaudjee/courses/cs848/papers/das10.pdf">G-Store</a>||
+|6/7|Transactions|<a href="https://dl.acm.org/doi/abs/10.14778/1920841.1920855">The case for determinism</a>||
+|6/9|Transactions|<a href="https://irenezhang.net/papers/tapir-sosp15.pdf">TAPIR</a>||
