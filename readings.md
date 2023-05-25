@@ -26,7 +26,7 @@
 |5/26||Lightning Talks||
 |5/29||Memorial Day||
 |5/31||No Class||
-|5/31||Lightning talks||
+|6/2||Lightning talks||
 |6/5|Security|<a href="https://dl.acm.org/doi/pdf/10.1145/2810103.2813695">Observing and Preventing Leakage in MapReduce</a>||
 |6/7|Transactions|<a href="https://cs.uwaterloo.ca/~kdaudjee/courses/cs848/papers/das10.pdf">G-Store</a>||
 |6/9|Transactions|<a href="https://irenezhang.net/papers/tapir-sosp15.pdf">TAPIR</a>||
